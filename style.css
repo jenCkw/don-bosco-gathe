@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 12px;
+    padding: 8px;
+    
+}
+a:hover {
+    background-color:  #283891;
+    border-radius: 7px;
+    color: white;
+
+  }
+.header-right{
+
+    float: right;
+    color: black;
+    margin: 20px;
+
+ } 
+
+
+ .logo{
+    color: whitesmoke;
+    font-size: 30px;
+    font-weight: 900px;
+ } 
+
+ header{
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    padding: 2%;
+ }
+.présentation{
+    background-color: #283891;
+    background-position: center;
+    background-repeat : no-repeat;
+    background-size: cover;
+    padding: 100px 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    text-align: center;
+    color: white;
+}
+
+.center{
+    font-size: 32px;
+}
+.image{
+    width: 100%;
+}
+.btn-apropos{
+    text-align: center;
+    border-radius: 8px;
+    padding: 10px 12px;
+    color: #283891;
+    font-size: 20px;
+    font-weight: bold;
+    border:none ;
+    background-color: white;
+    width: 200px;
+}
+.details{
+    text-align: left;
+    padding-left: 60px;
+    font-weight: 50px;
+    background-color: white;
+    padding-top: 5%;
+
+}
+.details h2{
+    color: #283891;
+    font-size: 30px;
+}
+.adresses{
+    text-align: left;
+    padding-left: 60px;
+    font-weight: 50px;
+    padding-top: 5%;
+    
+}
+.adresses h2{
+    color: #283891;
+    font-size: 30px;
+    
+}
+footer{
+    text-align: center;
+}
+.section-idéntité{
+    background-color: #283891;
+    background-position: center;
+    background-repeat : no-repeat;
+    background-size: cover;
+    padding: 100px 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    text-align: center;
+    color: white;
+}
+.debut{
+    font-size: 36px;
+}
+
+
+.vision{
+    text-align: left;
+    padding-left: 80px;
+    font-weight: 50px;
+    padding-top: 5%;
+    background-color: #f3eded;
+}
+.vision h2{
+    color: #283891;
+    font-size: 30px;
+}
+    
+
+.objectif{
+    text-align: left;
+    padding-left: 60px;
+    font-weight: 50px;
+    padding-top: 5%;
+    padding-left: 80px;
+
+}
+.objectif h2{
+    color: #283891;
+    font-size: 30px;
+}
+.mot{
+    text-align: center;
+    text-decoration: none;
+    color:blue;
+    padding: 10px 0px;
+    font-size: 28px;
+    padding-left: 80px;
+}
+button{
+    border-radius: 5px;
+    padding: 10px 12px;
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    border:none ;
+    font-size: 24px;
+    padding-left: 60px;
+    background-color: #283891;
+    width: 65%;
+    margin: 20px;
+}
+.section-idéntité{
+    background-image: url("images/imageapropos.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    text-decoration: none;
+    color:whitesmoke;
+}
+footer h2{
+    font-size: 30px;
+}
+ div img{
+ padding-left: 20px;
+ 
+}
+.formulaire{
+    text-align: center;
+    background: #f3eded;
+    
+}
+.mes-elements>*{
+
+    margin: 1rem;
+    
+}
+#nom{
+    
+    width: 60%;
+    padding: 1rem;
+    border-color: white;
+    border-radius: 10px;
+    border: none;
+
+}
+#email{
+    
+    width: 60%;
+    padding: 1rem;
+    border-color:white;
+    border-radius: 10px;
+    border: none;
+}
+#message{
+    width: 60%;
+    border-color: white;
+    border-radius: 10px;
+    padding: 1rem;
+    border: none;
+    
+    
+}
+.instagram{
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.instagram-2{
+    margin-right: 40px;
+    margin-left: 40px;
+}
+ul{
+    padding-left: 17px;
+}
